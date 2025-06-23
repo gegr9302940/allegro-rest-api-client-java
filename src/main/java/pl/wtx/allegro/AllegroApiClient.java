@@ -16,6 +16,10 @@ import pl.wtx.allegro.api.client.invoker.JSON;
  * <p>
  * By default, it ignores unrecognized fields in API responses to improve robustness.
  * </p>
+ * 
+ * @author WTX Labs
+ * @see https://github.com/wtx-labs/allegro-rest-api-client-java
+ * @license MIT
  */
 public class AllegroApiClient extends ApiClient {
 
