@@ -3,7 +3,7 @@
 ***
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java Version](https://img.shields.io/badge/Java-17%2B-blue)](https://www.java.com)
-[![Maven Central](https://img.shields.io/maven-central/v/pl.wtx.allegro/allegro-rest-api-client?label=Maven%20Central&logo=apache-maven&color=blue)]
+[![Maven Central](https://img.shields.io/maven-central/v/pl.wtx.allegro/allegro-rest-api-client?label=Maven%20Central&logo=apache-maven&color=blue)](https://mvnrepository.com/artifact/pl.wtx.allegro/allegro-rest-api-client)
 
 Lekka biblioteka kliencka w języku Java do integracji z Allegro REST API. Stworzona dla programistów Java, którzy potrzebują zintegrować swoje aplikacje z API platformy Allegro. 🚀
 
